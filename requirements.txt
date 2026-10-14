@@ -1,0 +1,4 @@
+strands-decider
+strands-agents
+botocore[crt]
+boto3
